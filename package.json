@@ -1,0 +1,15 @@
+{
+  "name": "downstream-vibrant",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A more colorful dark theme with watery hues",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/downstream-vibrant",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
